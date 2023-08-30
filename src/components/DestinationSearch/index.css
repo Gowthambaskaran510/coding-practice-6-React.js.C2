@@ -1,0 +1,42 @@
+.bg-container {
+  background-color: #f1f5f9;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  color: #252627;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+
+.search-card-container {
+  border-radius: 10px;
+  background-color: #f1f5f9;
+  display: flex;
+  flex-wrap: wrap;
+}
+.search-card {
+  border: none;
+  outline: none;
+  padding: 10px;
+  border-radius: 10px;
+  color: #252627;
+  background-color: #f1f5f9;
+  font-size: 19px;
+  font-weight: bold;
+}
+.search-icon {
+  height: 30px;
+  width: 30px;
+  background-color: #f1f5f9;
+  border-radius: 10px;
+  padding: 5px;
+}
+.cards {
+  display: flex;
+}

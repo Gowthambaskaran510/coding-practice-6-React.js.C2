@@ -1,0 +1,18 @@
+.title {
+  color: #000000;
+  font-family: 'Open Sans';
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.image-card {
+  border-radius: 10px;
+  height: 150px;
+  width: 200px;
+}
+
+.card-container {
+  list-style-type: none;
+  width: auto;
+  padding: 5px;
+}
